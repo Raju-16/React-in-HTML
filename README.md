@@ -14,7 +14,7 @@ The tech stack I used to build this App:-
 ## App flow :
 1. Clone this app
 2. npm install
-3. npm start to run react app.
+3. npm run live to run this app.
 
 ## Contributor :
 1. Raju Kumar Prajapati.
